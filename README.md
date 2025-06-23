@@ -59,8 +59,6 @@ Modern customer support demands **scalability**, **personalization**, and **spee
 2. Add or enhance entries under **Popular Tools**, maintaining name-only format.  
 3. Submit a **Pull Request** with a clear summary of your changes.  
 
-See [CONTRIBUTING.md](CONTRIBUTING.md) for detailed guidelines.
-
 ---
 
 ## License
